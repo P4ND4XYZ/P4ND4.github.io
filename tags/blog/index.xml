@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on 技術メモ</title>
+		<link>https://P4ND4.github.io/tags/blog/</link>
+		<description>Recent content in Blog on 技術メモ</description>
+		<generator>Hugo</generator>
+		<language>ja</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 07 Jun 2026 16:59:00 +0900</lastBuildDate>
+		
+			<atom:link href="https://P4ND4.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hugoで始める技術ブログ</title>
+				<link>https://P4ND4.github.io/posts/sample/</link>
+				<pubDate>Sun, 07 Jun 2026 16:59:00 +0900</pubDate>
+				<guid>https://P4ND4.github.io/posts/sample/</guid>
+				<description>&lt;p&gt;この記事はHugoを使ったサンプル投稿です。Markdownで書いて公開できます。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ポイント: コンテンツは content/ に置く&lt;/li&gt;&#xA;&lt;li&gt;テンプレートは layouts/ に置く&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>
