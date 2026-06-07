@@ -1,0 +1,8 @@
+{
+  "name": "p4nd4-github-pages",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build:posts": "node scripts/generate_index.js"
+  }
+}
