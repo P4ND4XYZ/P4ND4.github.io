@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sample on 技術メモ</title>
-		<link>https://P4ND4.github.io/tags/sample/</link>
+		<link>https://p4nd4xyz.github.io/MemoPost/tags/sample/</link>
 		<description>Recent content in Sample on 技術メモ</description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 07 Jun 2026 16:59:00 +0900</lastBuildDate>
 		
-			<atom:link href="https://P4ND4.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://p4nd4xyz.github.io/MemoPost/tags/sample/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Hugoで始める技術ブログ</title>
-				<link>https://P4ND4.github.io/posts/sample/</link>
+				<link>https://p4nd4xyz.github.io/MemoPost/posts/sample/</link>
 				<pubDate>Sun, 07 Jun 2026 16:59:00 +0900</pubDate>
-				<guid>https://P4ND4.github.io/posts/sample/</guid>
+				<guid>https://p4nd4xyz.github.io/MemoPost/posts/sample/</guid>
 				<description>&lt;p&gt;この記事はHugoを使ったサンプル投稿です。Markdownで書いて公開できます。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ポイント: コンテンツは content/ に置く&lt;/li&gt;&#xA;&lt;li&gt;テンプレートは layouts/ に置く&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
